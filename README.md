@@ -64,7 +64,7 @@ Les analyses ont été réalisées dans Power BI à partir des données nettoyé
 
 ## 🧠 Exemple d'insights
 
-- La note moyenne globale est de **3,46/5**, ce qui indique une satisfaction moyenne, avec des avis très contrastés.
+- La note moyenne globale est de **3,13/5**, ce qui indique une satisfaction moyenne, avec des avis très contrastés.
 - La répartition des notes montre une forte part de **notes 5**, mais également un volume non négligeable de **notes 1**, ce qui traduit une expérience client inégale selon les restaurants.
 - Certains restaurants se démarquent avec un volume important d'avis et une note moyenne supérieure ou inférieure à la moyenne globale.
 
