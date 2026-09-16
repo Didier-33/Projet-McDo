@@ -10,6 +10,7 @@ Analyser les avis clients laissés sur plusieurs restaurants McDonald's pour :
 
 Ce projet s'inscrit dans ma reconversion vers le métier de Data Analyst. Il fait le lien entre mon expérience passée chez McDonald's et mes nouvelles compétences en analyse de données.
 
+Macdo Projet.pdf
 ---
 
 ## 📂 Données
